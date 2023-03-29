@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LucasGóngora_M2_P1/1.0.0": {
+        "runtime": {
+          "LucasGóngora_M2_P1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LucasGóngora_M2_P1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
